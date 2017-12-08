@@ -26,5 +26,6 @@
   <ItemGroup>
     <None Include="dinput8.def" />
     <None Include="packages.config" />
+    <None Include="readme.md" />
   </ItemGroup>
 </Project>
